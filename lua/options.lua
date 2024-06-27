@@ -91,4 +91,3 @@ vim.keymap.set('i', 'jj', '<Esc>', { desc = 'Exit to Normal Mode' })
 vim.keymap.set('v', 'jj', '<Esc>', { desc = 'Exit to Normal Mode' })
 vim.keymap.set('c', 'jj', '<Esc>', { desc = 'Exit to Normal Mode' })
 vim.keymap.set('o', 'jj', '<Esc>', { desc = 'Exit to Normal Mode' })
-
